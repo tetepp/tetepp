@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Banner animado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:492386,100:B49DD1&height=200&section=header&text=Olá,%20eu%20sou%20a%20Ester%20Pazini!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engenharia%20da%20Computação%20•%20Desenvolvedora%20•%20Tech%20Enthusiast&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:492386,100:B49DD1&height=200&section=header&text=Olá,%20eu%20sou%20a%20Ester%20Pazini!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engenharia%20da%20Computação%20&descSize=18" />
 
 <!-- Texto digitado animado -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o;T%C3%A9cnica+em+Inform%C3%A1tica;Apaixonada+por+tecnologia+%F0%9F%92%9C;Transformando+ideias+em+solu%C3%A7%C3%B5es+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o;T%C3%A9cnica+em+Inform%C3%A1tica;Apaixonada+por+tecnologia+%F0%9F%92%9C;Transformando+ideias+em+solu%C3%A7%C3%B5es" alt="Typing SVG" />
 </a>
 
 </div>
@@ -18,13 +18,12 @@ Nome: Ester Pazini Pacheco
 - formação:
   - Engenharia da Computação (IFMS) — em andamento
   - Técnica em Informática (IFMS)
+  - Língua Inglesa (Callan method)
 - interesses:
   - Software Engineering
   - Full Stack
   - Backend / Frontend
   - Databases
-- filosofia: "Transformar ideias em soluções reais."
-
 
 Sou apaixonada por tecnologia e por entender **como as coisas funcionam por trás do código**. Atualmente, estou aprimorando meus conhecimentos em desenvolvimento de software, bancos de dados, arquitetura de aplicações e novas tecnologias.
 
