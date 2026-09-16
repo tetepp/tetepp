@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner animado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=200&section=header&text=Olá,%20eu%20sou%20a%20Ester%20Pazini!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engenharia%20da%20Computação%20•%20Desenvolvedora%20•%20Tech%20Enthusiast&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:492386,100:B49DD1&height=200&section=header&text=Olá,%20eu%20sou%20a%20Ester%20Pazini!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engenharia%20da%20Computação%20•%20Desenvolvedora%20•%20Tech%20Enthusiast&descAlignY=58&descSize=18" />
 
 <!-- Texto digitado animado -->
 <a href="https://git.io/typing-svg">
@@ -106,7 +106,7 @@ Continuar evoluindo como **desenvolvedora e futura engenheira de computação**,
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:492386,100:B49DD1&height=120&section=footer" />
 
 **Construindo, aprendendo e evoluindo através da tecnologia. 💜**
 
