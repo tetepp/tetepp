@@ -86,9 +86,6 @@ Continuar evoluindo como **desenvolvedora e futura engenheira de computação**,
 </div>
 
 ---
-
-## Onde me encontrar
-
 <div align="center">
 
   <a href="https://tetepp.github.io/Portifolio/" target="_blank">
@@ -105,8 +102,6 @@ Continuar evoluindo como **desenvolvedora e futura engenheira de computação**,
   </a>
 
 </div>
-
----
 
 <div align="center">
 
