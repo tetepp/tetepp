@@ -15,7 +15,7 @@
 ## 👩🏻‍💻 Sobre mim
 
 Nome: Ester Pazini Pacheco
-formação:
+- formação:
   - Engenharia da Computação (IFMS) — em andamento
   - Técnica em Informática (IFMS)
 - interesses:
