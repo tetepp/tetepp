@@ -12,7 +12,7 @@
 
 ---
 
-## 👩🏻‍💻 Sobre mim
+## Sobre mim
 
 Nome: Ester Pazini Pacheco
 - formação:
@@ -30,7 +30,7 @@ Sou apaixonada por tecnologia e por entender **como as coisas funcionam por trá
 
 ---
 
-## 💻 Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -61,21 +61,21 @@ Sou apaixonada por tecnologia e por entender **como as coisas funcionam por trá
 
 ---
 
-## 🌐 Meu Portfólio
+## Meu Portfólio
 
 Criei meu próprio portfólio para reunir projetos, conhecimentos e experiências em desenvolvimento.
 
 <div align="center">
 
-### 💜 [**Acessar meu Portfólio**](https://tetepp.github.io/Portifolio/)
+### [**Acessar meu Portfólio**](https://tetepp.github.io/Portifolio/)
 
-<sub>Hospedado com **GitHub Pages** ✨</sub>
+<sub>Hospedado com **GitHub Pages** </sub>
 
 </div>
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
 Continuar evoluindo como **desenvolvedora e futura engenheira de computação**, trabalhando em projetos que me permitam aplicar conhecimentos, aprender continuamente e construir soluções tecnológicas de impacto.
 
@@ -87,7 +87,7 @@ Continuar evoluindo como **desenvolvedora e futura engenheira de computação**,
 
 ---
 
-## 📫 Onde me encontrar
+## Onde me encontrar
 
 <div align="center">
 
@@ -100,6 +100,10 @@ Continuar evoluindo como **desenvolvedora e futura engenheira de computação**,
   <a href="mailto:esterpazinipacheco@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/ester-pazini-pacheco-4249902b9/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
 </div>
 
 ---
@@ -108,6 +112,6 @@ Continuar evoluindo como **desenvolvedora e futura engenheira de computação**,
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:492386,100:B49DD1&height=120&section=footer" />
 
-**Construindo, aprendendo e evoluindo através da tecnologia. 💜**
+**Construindo, aprendendo e evoluindo através da tecnologia.**
 
 </div>
